@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Just Java</string>
+    <string name="name">Namae</string>
+    <string name="whipped_cream">Hoippukurīmu</string>
+    <string name="chocolate">Chokorēto</string>
+    <string name="order">Chūmon</string>
+    <string name="thank_you">Arigatōgozaimashita</string>
+    <string name="quantity">Ryō</string>
+    <string name="toppings">Toppingu</string>
+    <string name="initial_quantity_value">二</string>
+    <string name="order_summary_name">Namae: <xliff:g id="name" example="Amy">%s</xliff:g></string>
+    <string name="order_summary_whipped_cream">Hoippukurīmu o tsuika shimasu ka? <xliff:g id="addWhippedCream" example="true">%b</xliff:g></string>
+    <string name="order_summary_chocolate">Chokorēto o tsuika shimasu ka? <xliff:g id="addChocolate" example="true">%b</xliff:g></string>
+    <string name="order_summary_quantity">Ryō: <xliff:g id="quantity" example="2">%d</xliff:g></string>
+    <string name="order_summary_price">Gōkei: <xliff:g id="price" example="$10">%s</xliff:g></string>
+    <string name="order_summary_email_subject">Tada no javu~a chūmon <xliff:g id="name" example="Sataro">%s</xliff:g></string>
+</resources>
